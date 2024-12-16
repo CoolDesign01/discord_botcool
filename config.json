@@ -1,0 +1,23 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "bot_name": "MyShopBot",
+    "profile_image": "profile.jpg",
+    "announcement_channel_id": 1311696820438564955,
+    "shop_open_message": "ร้านของเราเปิดให้บริการแล้วน๊าา! :tada:",
+    "shop_close_message": "ร้านของเราปิดบริการแล้ว! ขอบคุณที่มาอุดหนุนน๊าาา!",
+    "announcements": [],
+    "schedule": {
+        "daily_open": "20:52",
+        "daily_close": "20:57",
+        "custom_announcements": [
+            {
+                "time": "12:00",
+                "message": "อย่าลืมแวะมาทานอาหารกลางวันกับเรานะ!"
+            },
+            {
+                "time": "18:00",
+                "message": "มื้อเย็นพร้อมเสิร์ฟแล้วค่ะ!"
+            }
+        ]
+    }
+}
